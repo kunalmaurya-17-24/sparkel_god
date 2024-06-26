@@ -1,0 +1,170 @@
+@font-face {
+  font-family: 'YOU';
+  src: url('YOU.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'US Angel';
+  src: url('usangel.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'The Amazing Spider-Man';
+  src: url('The Amazing Spider-Man.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spongebob';
+  src: url('Spongebob.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Soulmate';
+  src: url('Soulmate.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sayyeda';
+  src: url('Sayyeda.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Qetod';
+  src: url('Qetod.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Power Rangers';
+  src: url('Power Rangers.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Plain Black Wide';
+  src: url('Plain Black Wide.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'One Piece';
+  src: url('one piece font.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Old English Five';
+  src: url('old-english-five.regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ninja Naruto';
+  src: url('ninja-naruto.regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Mostwasted';
+  src: url('Mostwasted.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Marvel';
+  src: url('Marvel-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Impostograph';
+  src: url('Impostograph-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Homoarakhn';
+  src: url('homoarakhn.regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Harry Potter';
+  src: url('HarryPotter-ov4z.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Genshin Impact DRIP FONT';
+  src: url('Genshin Impact DRIP FONT.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Game of Thrones';
+  src: url('Game of Thrones.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Gabriel';
+  src: url('gabriel.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Fette Classic UNZ Fraktur';
+  src: url('FetteClassicUNZFraktur.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ditty';
+  src: url('Ditty.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Death Font';
+  src: url('death-font.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CrushNBurn';
+  src: url('CrushNBurn-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cloister Black';
+  src: url('CloisterBlack.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ARB 85 Poster Script';
+  src: url('ARB 85 Poster Script JAN-39 FRE.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Among Us';
+  src: url('AmongUs-Regular.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+
+p {
+  margin-top: 20vh;
+  font-size: 15vh;
+  /* opacity: 0.9; */
+  font-weight: bolder;
+  margin-right: 5vh;
+  text-shadow: 0 0 5px rgba(245, 245, 245, 0.8), 
+               0 0 10px rgba(245, 245, 245, 0.8), 
+               0 0 15px rgba(245, 245, 245, 0.8);
+}
+
+.para:last-child {
+  margin-right: 0;
+}
